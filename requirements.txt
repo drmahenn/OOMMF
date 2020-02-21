@@ -1,7 +1,8 @@
-numpy==1.16.*
-matplotlib==3.*
-seaborn==0.8.1
-pandas
-ubermag
-ubermagtable
-oommfc
+ipywidgets
+ipydatawidgets
+traittypes
+traitlets
+numpy
+jupyter_sphinx>=0.1.4
+nbsphinx
+nbsphinx_link
