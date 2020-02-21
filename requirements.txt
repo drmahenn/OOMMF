@@ -6,3 +6,4 @@ numpy
 jupyter_sphinx>=0.1.4
 nbsphinx
 nbsphinx_link
+ubermag
